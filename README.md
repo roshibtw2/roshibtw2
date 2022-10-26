@@ -5,13 +5,12 @@
 
   <img src="[https://discord.c99.nl/widget/theme-1/949402468809322506.png](https://cdn.discordapp.com/attachments/1030862334333296792/1034883629110804630/unknown.png)"></img>
 
-  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjay0&show_icons=true&theme=radical)
 </div>
 <h1 align="center">listening to spotify🎶 </h1>
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3kh7s7df2zgealzzqv3fuckb4&cover_image=true&theme=default)](https://open.spotify.com/user/31t3kh7s7df2zgealzzqv3fuckb4?si=556d146279ac45b1)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3kh7s7df2zgealzzqv3fuckb4&cover_image=true&theme=default)][https://open.spotify.com/user/31t3kh7s7df2zgealzzqv3fuckb4?si=556d146279ac45b1]
 
 </div>
 
